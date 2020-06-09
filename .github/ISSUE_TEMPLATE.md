@@ -2,12 +2,12 @@
 请按这个模板来提交。这是注释
 您只需在各冒号后填写
 -->
-
 <!--
-请确认您已通过下方方法尝试解决，再发issue
-仔细阅读 README.md(https://github.com/TechXueXi/TechXueXi/blob/master/README.md)
-通过搜索引擎搜索  www.google.com  www.baidu.com
-到在线聊天室寻求解决(聊天室说明：https://github.com/TechXueXi/TechXueXi/issues/14)
+请确认您已通过下方方法尝试解决/交流联系，再发issue：
+仔细阅读 README.md                    (https://github.com/TechXueXi/TechXueXi/blob/master/README.md)
+查看/搜索所有已有issue，无论是open还是close的
+通过搜索引擎搜索                      www.google.com  www.baidu.com
+到我们提供的在线聊天室寻求解决              (聊天室说明：https://github.com/TechXueXi/TechXueXi/issues/14)
 
 请先填写下方信息，可以不填的项可留空
 -->
