@@ -15,6 +15,10 @@
 
 本项目维护计划、路线图参见 https://github.com/TechXueXi/TechXueXi/projects/1
 
+如您参与贡献，请注意：维护计划、路线图中每一条未列至"Done"下时，仅可在dev分支改动。网站改版的修改可同时提交至dev和master。
+
+### [👨‍👨‍👦‍👦   直接参与贡献](https://github.com/TechXueXi/TechXueXi/blob/master/CONTRIBUTING.md)(内附提交方法)
+
 如您开发了其他“科技强国”项目，也可以加入本组织，相互交流，共同维护生态。
 
 您还可以选用配置比较复杂的但37分/天同类产品：https://github.com/TechXueXi/AutoXue
@@ -197,9 +201,6 @@ win平台可能提示`无法定位程序输入点ucrtbase.terminate于动态链�
 
 提交issue标题示例  `V2.4 win10x64 软件显示问题…`
 
-
-
-### [👨‍👨‍👦‍👦   参与贡献](https://github.com/TechXueXi/TechXueXi/blob/master/CONTRIBUTING.md)(内附提交方法)
 
 
 
