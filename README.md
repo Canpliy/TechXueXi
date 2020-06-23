@@ -13,6 +13,8 @@
 
 若您有意愿加入本组织，持续对本项目进行维护，请发送主题“申请科技强国组织成员”的邮件至tobctobc@protonmail.com，请将您的github用户名添加到邮件正文中，便于发送邀请。谢谢。
 
+本项目维护计划、路线图参见 https://github.com/TechXueXi/TechXueXi/projects/1
+
 如您开发了其他“科技强国”项目，也可以加入本组织，相互交流，共同维护生态。
 
 您还可以选用配置比较复杂的但37分/天同类产品：https://github.com/TechXueXi/AutoXue
